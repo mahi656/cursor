@@ -1,0 +1,8 @@
+.dot {
+    width: 6px;
+    height: 6px;
+    background: black;
+    border-radius: 50%;
+    position: absolute;
+    pointer-events: none;
+}
